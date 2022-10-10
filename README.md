@@ -4,3 +4,5 @@ A transfer learning based VGG19 model to predict whether the patient is infected
 VGG19 model is used
 
 Python 3.7
+
+Tensorflow 2.2
